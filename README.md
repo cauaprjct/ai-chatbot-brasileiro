@@ -197,12 +197,6 @@ python -m pytest tests/ --cov=src
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 🆘 **Suporte**
-
-- 📧 **Email**: seu-email@gmail.com
-- 💬 **Issues**: [GitHub Issues](https://github.com/seu-usuario/ai-chatbot-brasileiro/issues)
-- 📱 **WhatsApp**: +55 (11) 99999-9999
-
 ## 🌟 **Roadmap**
 
 - [ ] Integração com WhatsApp API
