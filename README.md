@@ -223,4 +223,4 @@ Precisa de customização ou suporte profissional?
 
 ⭐ **Se este projeto foi útil, deixe uma estrela no GitHub!**
 
-Desenvolvido com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+Desenvolvido com ❤️ por [Cauã dev](https://github.com/seu-usuario)
